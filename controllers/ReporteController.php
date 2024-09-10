@@ -6,7 +6,7 @@ use Exception;
 use Model\Producto;
 use MVC\Router;
 
-class ProductoController
+class ReporteController
 {
     public static function index(Router $router)
     {
